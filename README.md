@@ -1,5 +1,9 @@
 # 🚀 Bootcamp React + TypeScript
 
+<p align="center">
+  <img src="_assets/bootcamp-header.svg" alt="Bootcamp React + TypeScript" />
+</p>
+
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![20 Semanas](https://img.shields.io/badge/20_Semanas-160_Horas-green.svg)](.)
 [![React 18+](https://img.shields.io/badge/React-18+-61DAFB.svg?logo=react)](https://react.dev/)
