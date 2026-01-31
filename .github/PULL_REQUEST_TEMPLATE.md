@@ -1,10 +1,10 @@
 # ✅ Pull Request
 
-## 📌 Resumen (ES / EN)
+## 📌 Resumen
 
-- **Qué cambia? / What changes?**
-- **Por qué? / Why?**
-- **Impacto? / Impact?**
+- **Qué?**
+- **Para?**
+- **Impacto?**
 
 ---
 
@@ -13,7 +13,7 @@
 - [ ] El código compila y funciona
 - [ ] Documentación actualizada (si aplica)
 - [ ] Convenciones de estilo respetadas
-- [ ] Commits con Conventional Commits (EN)
+- [ ] Commits con Conventional Commits (título en inglés, cuerpo en español)
 
 ---
 
