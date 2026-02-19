@@ -1,13 +1,23 @@
 {
-  "name": "proyecto-semana-01",
+  "name": "microcreditosts",
   "version": "1.0.0",
-  "type": "module",
+  "description": "Proyecto de modelado de entidades para plataforma de microcréditos con TypeScript",
+  "main": "index.js",
   "scripts": {
-    "start": "tsx starter/index.ts",
-    "solution": "tsx solution/index.ts"
+    "start": "ts-node starter/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "typescript",
+    "microcreditos",
+    "frontend",
+    "react"
+  ],
+  "author": "Tu Nombre",
+  "license": "ISC",
   "devDependencies": {
-    "tsx": "^4.19.2",
-    "typescript": "^5.7.3"
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
   }
 }
